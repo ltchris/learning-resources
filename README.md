@@ -44,8 +44,8 @@ These are general lists that give good guidance on where/how to start learning.
 ### Communities
 [r/Machinelearning Subreddit](reddit.com/r/machinelearning)  
 [Hackernews](https://news.ycombinator.com/)  
-[Kaggle](https://www.kaggle.com/)
-[OpenAI](openai.com)
+[Kaggle](https://www.kaggle.com/)  
+[OpenAI](openai.com)  
 [OpenAI's Gitter](https://gitter.im/openai/gym?source=orgpage)  
 [OpenAI's Forums](https://discuss.openai.com/)  
   
