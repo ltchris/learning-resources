@@ -9,8 +9,8 @@ These are general lists that give good guidance on where/how to start learning.
 [Google - Students - Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)  
 [Open-Source-Society: Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)  
 [Matt Might - What every Computer Science Major should know](http://matt.might.net/articles/what-cs-majors-should-know/)  
-[freeCodeCamp](https://www.freecodecamp.org/)
-[The Odin Project - Learn Web Development for Free](https://www.theodinproject.com/home)
+[freeCodeCamp](https://www.freecodecamp.org/)  
+[The Odin Project - Learn Web Development for Free](https://www.theodinproject.com/home)  
 
 ## Machine Learning / Deep Learning
 [r/Machinelearning - A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)    
