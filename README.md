@@ -20,7 +20,6 @@ These are general lists that give good guidance on where/how to start learning.
 [The Deep Learning Book Meetup Video Series](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos)  
 [Machine Learning with Python by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)  
 [Caltech Machine Learning Course - CS156](https://www.youtube.com/playlist?list=PLD63A284B7615313A)  
-
 [Deep Learning Simplified](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)  
 [Intro to Deep Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)  
 [UC Berkley CS294-112 Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)  
